@@ -25,9 +25,9 @@ class hero{
         
 let mage = new hero("Emeyas", 38, "mage")
 let warrior = new hero("Arthur", 24, "warrior")
-let monk = new hero("Tenzin", 32, "Monge")
-let ninja = new hero(`Akarai`, 27, `Ninja`)
+let monk = new hero("Tenzin", 32, "monk")
+let ninja = new hero(`Akarai`, 27, `ninja`)
 
-monk.atacar()
+ninja.atacar()
 
 
